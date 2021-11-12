@@ -31,7 +31,7 @@ $ bash Animation.sh
 
 ## Thanks for you
 ```python
- ALDI BACHTIAR RIFAI
+ ALDI BACHTIAR RIFAI a
 ```
 
 > Jangan lupa subscribe tod
