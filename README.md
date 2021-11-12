@@ -3,7 +3,7 @@
 </h1>
 </div>
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/Bayu12345677">Bayu12345677_</a>
+  Made with ❤️ by <a href="https://github.com/Bayu12345677">Polygon_</a>
 </p>
 <p align="center">
  
@@ -31,7 +31,7 @@ $ bash Animation.sh
 
 ## Thanks for you
 ```python
- ALDI BACHTIAR RIFAI a
+ ALDI BACHTIAR RIFAI
 ```
 
 > Jangan lupa subscribe tod
