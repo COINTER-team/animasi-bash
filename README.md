@@ -31,3 +31,7 @@ $ bash Animation.sh
 
 > Jangan lupa subscribe tod
 > script ini saya buat open source :v
+
+<p align="center">
+ terimkasi telah berkunjung
+</p>
