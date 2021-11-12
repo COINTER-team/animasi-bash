@@ -29,9 +29,10 @@ $ bash Animation.sh
  Helixs-crew
 ```
 
+## Thanks for you
+```python
+ ALDI BACHTIAR RIFAI
+```
+
 > Jangan lupa subscribe tod
 > script ini saya buat open source :v
-
-<p align="center">
- terimkasi telah berkunjung
-</p>
